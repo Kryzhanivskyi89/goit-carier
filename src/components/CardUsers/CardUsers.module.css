@@ -10,13 +10,13 @@
 
 }
 
-.card::before,
-.card::after {
+.card:before,
+.card:after {
         content: "";
         position: absolute;
     }
 
-        .card::after {
+        .card:after {
         left: 20px;
         top: 20px;
         width: 76px;
@@ -24,7 +24,7 @@
         background-image: url(../../images/logo.png);
     }
 
-        .card::before {
+        .card:before {
         position: absolute;
         display: block;
         left: 0;
