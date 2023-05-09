@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goit-carier/static/css/main.073c9b0a.css",
+    "main.js": "/goit-carier/static/js/main.999e5526.js",
+    "static/js/787.b58f0ff8.chunk.js": "/goit-carier/static/js/787.b58f0ff8.chunk.js",
+    "static/media/logo.svg": "/goit-carier/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goit-carier/index.html",
+    "main.073c9b0a.css.map": "/goit-carier/static/css/main.073c9b0a.css.map",
+    "main.999e5526.js.map": "/goit-carier/static/js/main.999e5526.js.map",
+    "787.b58f0ff8.chunk.js.map": "/goit-carier/static/js/787.b58f0ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.999e5526.js"
+  ]
+}
